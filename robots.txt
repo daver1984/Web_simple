@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daver1984.github.io/Creaciones/sitemap.xml
