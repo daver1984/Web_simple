@@ -1,4 +1,4 @@
-Lo que hiciste hoy es un excelente punto de partida:
+Temática:
 
 Git y control de versiones
 HTML5 semántico
